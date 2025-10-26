@@ -41,6 +41,7 @@ TBitField::TBitField(const TBitField &bf)
 TBitField::~TBitField()
 {
   delete[] pMem;
+  pMem = nullptr;
 }
 
 int TBitField::GetMemIndex(const int n) const

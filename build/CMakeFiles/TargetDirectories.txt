@@ -1,6 +1,0 @@
-C:/Users/German/Desktop/lab1/mp2-2025-lab1-set-Latsples-/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/German/Desktop/lab1/mp2-2025-lab1-set-Latsples-/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/German/Desktop/lab1/mp2-2025-lab1-set-Latsples-/build/src/CMakeFiles/set.dir
-C:/Users/German/Desktop/lab1/mp2-2025-lab1-set-Latsples-/build/samples/CMakeFiles/sample_prime_numbers.dir
-C:/Users/German/Desktop/lab1/mp2-2025-lab1-set-Latsples-/build/gtest/CMakeFiles/gtest.dir
-C:/Users/German/Desktop/lab1/mp2-2025-lab1-set-Latsples-/build/test/CMakeFiles/test_set.dir
